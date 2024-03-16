@@ -1,4 +1,4 @@
-The py_pkg Package
+˚The py_pkg Package
 ==================
 
 .. automodule:: py_pkg.curves

@@ -26,8 +26,15 @@ setup(
     url=about['__url__'],
     packages=['py_pkg'],
     include_package_data=True,
-    python_requires=">=3.7.*",
-    install_requires=['numpy', 'requests'],
+    python_requires=">=3.8.*",
+    install_requires=[
+        'numpy',
+        'requests',
+        'rdkit',
+        'pandas',
+        'seaborn',
+        'matplotlib',
+    ],
     license=about['__license__'],
     zip_safe=False,
     entry_points={

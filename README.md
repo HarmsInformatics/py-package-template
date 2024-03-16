@@ -43,7 +43,7 @@ py-package-tempate/
  |-- |-- __init__.py
  |-- |-- __version__.py
  |-- |-- curves.py
- |-- |-- entry_points.py
+ |-- |-- app.py
  |-- tests/
  |-- |-- test_data/
  |-- |   |-- supply_demand_data.json
