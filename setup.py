@@ -26,7 +26,7 @@ setup(
     url=about['__url__'],
     packages=['py_pkg'],
     include_package_data=True,
-    python_requires=">=3.8.*",
+    python_requires=">=3.8",
     install_requires=[
         'numpy',
         'requests',
